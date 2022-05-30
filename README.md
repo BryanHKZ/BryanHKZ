@@ -2,7 +2,8 @@
 
 ## i'm full stack developer
 
-Systems Engineering student | FullStack Developer passionate about web development, with great interest in mobile development and without fear before the challenges that are given to me.
+Systems Engineering student | FullStack Developer
+passionate about web development, with great interest in mobile development and without fear before the challenges that are given to me.
 
 - 🌍  I'm based in Santa Marta, Colombia
 - ✉️  You can contact me at [bryanhenriquez529@gmail.com](mailto:bryanhenriquez529@gmail.com)
