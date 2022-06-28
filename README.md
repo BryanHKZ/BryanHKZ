@@ -1,7 +1,7 @@
 Hi 👋 My name is Bryan Henríquez
 ================================
 
-FullStack Developer and Junior Designer
+FullStack Developer
 ---------------------------------------
 
 Systems Engineering student | FullStack Developer passionate about web development, with great interest in mobile development and without fear before the challenges that are given to me.
